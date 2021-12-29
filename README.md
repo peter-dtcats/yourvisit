@@ -10,6 +10,15 @@ To contribute a patch, the workflow is as follows:
 2. Create topic branch
 3. Commit patches
 
+# Folder Structure 
+ Root --> Region (eg-APAC) 
+ 1 level --> County (Eg-India)
+ 2 level --> State (Karnatata)
+ 3 Level --> City (Bangalore)
+ 4 Level --> Place Name (Some Place)
+ 
+Contributors must follow the same structure.  
+
 # Refactoring 
 
 Refactoring is a necessary part of any software project's evolution, however Pull requests that refactor the code should not be made by new contributors.
