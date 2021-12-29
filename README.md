@@ -12,6 +12,7 @@ To contribute a patch, the workflow is as follows:
 
 # Folder Structure 
  Root --> Region (eg-APAC) 
+ 
  1 level --> County (Eg-India)
  2 level --> State (Karnatata)
  3 Level --> City (Bangalore)
