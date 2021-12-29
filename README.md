@@ -1,4 +1,4 @@
-# yourvisit
+# Yourvisit
 This project is to collect information about different places across the world (DEMO ONLY)
 
 # How to Contribute?
