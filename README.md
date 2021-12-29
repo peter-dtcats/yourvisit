@@ -1,5 +1,6 @@
 # Yourvisit
-This project is to help tourists to find the best places to visit across the globe. (This is demo project created for Testing Only)
+This is dummy project for testing..
+This project is to help tourists to find the best places to visit across the globe.
 
 # How to Contribute?
 The codebase is maintained using the "contributor workflow" where everyone without exception contributes patch proposals using "pull requests" (PRs). This facilitates social contribution, easy testing and peer review.
